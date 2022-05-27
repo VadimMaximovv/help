@@ -1,0 +1,16 @@
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).exe
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).deps.json
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).runtimeconfig.json
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).runtimeconfig.dev.json
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).dll
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\ref\control(opt10).dll
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\bin\Debug\net5.0\control(opt10).pdb
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).csproj.AssemblyReference.cache
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).AssemblyInfoInputs.cache
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).AssemblyInfo.cs
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).dll
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\ref\control(opt10).dll
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).pdb
+C:\Users\vadim\Documents\Sharga\Семестр 2\ПО dev\5\control(opt10)\control(opt10)\obj\Debug\net5.0\control(opt10).genruntimeconfig.cache
